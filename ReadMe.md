@@ -1,7 +1,7 @@
 # ex_machina_hardware
 ![png](https://github.com/user-attachments/assets/f5d5cd54-e71c-4172-bd99-3eae940944e9 "ex-machina")
 
-二足歩行ロボット格闘競技大会 [ROBO-ONE](https://www.robo-one.com/) 4kgクラスに出場可能なロボットex-machinaのハードウェアのリポジトリです．<br>
+二足歩行ロボット格闘競技大会 [ROBO-ONE](https://www.robo-one.com/) 4kgクラスに出場可能なロボット ex-machina のハードウェアのリポジトリです．<br>
 
 ## Hardware
 
@@ -69,7 +69,7 @@
 当ハードウェアの使用中に生じたいかなる損害も，製作者は一切の責任を負いかねます。 
 
 ## ライセンス
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下に提供されています。
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/TaikiTsuno/ex_machina_hardware">ex_machina_hardware</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://x.com/TTScaleCrawler">TaikiTsuno</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
 ## 作者
 TaikiTsuno (https://x.com/TTScaleCrawler)
