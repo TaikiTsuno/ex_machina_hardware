@@ -41,6 +41,11 @@
     - [ミスミ](https://jp.misumi-ec.com/?utm_medium=ppc&utm_source=google&utm_campaign=gpc-101-n-1425826&lisid=lisid_google_gpc-101-n-1425826&gad_source=1&gclid=Cj0KCQjwr9m3BhDHARIsANut04ZeUmmKD3Nv2JjcQcUYW_VNEaOJDag7J48Oq7qgPn9WbNAp2odAbkoaAlgqEALw_wcB&gclsrc=aw.ds)
     - [モノタロウ](https://www.monotaro.com/?cq_plt=gp&utm_source=google&utm_medium=cpc&utm_campaign=570-936-9507_958258473_corp-cpn&utm_content=56096454668&utm_term=e_543814048051_x_aud-368712506548:kwd-296140385411&gad_source=1&gclid=Cj0KCQjwr9m3BhDHARIsANut04ZKtGLvy1yPBDOr80lOPM3zyZ6vd-Gp71F82R72EOGEZt8AMtjL-gQaAsLnEALw_wcB)
     - [Amazon](https://www.amazon.co.jp/?&tag=hydraamazonav-22&ref=pd_sl_7ibq2d37on_e&adgrpid=157529192841&hvpone=&hvptwo=&hvadid=714710030354&hvpos=&hvnetw=g&hvrand=7148816842051905577&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1009302&hvtargid=kwd-10573980&hydadcr=27922_14794663&gad_source=1)
+- 各サーボモータのCADモデルは，利用規約に従い本リポジトリのCADデータには含まれていません．下記のリンクからダウンロードしてください．
+    - [KRS-4000](https://kondo-robot.com/faq/krs4000series-draw)
+    - [KRS-5000](https://kondo-robot.com/faq/krs-5000dimention)
+    - [KRS-6000](https://kondo-robot.com/faq/kr-6003hv-diagram)
+    - [KRS-9000](https://kondo-robot.com/faq/krs-9000dimention)
 
 ### leg
 ![png](https://github.com/user-attachments/assets/140fbd52-eafa-4055-8e75-b648f1a341ca "right_leg")
