@@ -46,7 +46,7 @@
 ![png](https://github.com/user-attachments/assets/140fbd52-eafa-4055-8e75-b648f1a341ca "right_leg")
 
 <table>
-  <caption>使用サーボモーター</caption>
+  <caption>片脚分　使用サーボモーター</caption>
   <thead>
     <tr>
       <th>名前</th> <th>個数</th>
@@ -54,13 +54,13 @@
   </thead>
   <tbody>
     <tr>
-      <td>KRS-6003RHV 105D組み</td> <td>4</td>
+      <td>KRS-6003RHV 105D組み</td> <td>2</td>
     </tr>
     <tr>
-      <td>KRS-9004HV speed</td> <td>2</td>
+      <td>KRS-9004HV speed</td> <td>1</td>
     </tr>
     <tr>
-      <td>KRS-4033HV</td> <td>2</td>
+      <td>KRS-4033HV</td> <td>1</td>
     </tr>
   </tbody>
 </table>
